@@ -34,7 +34,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ✅ **Data Cleaning & Transformation**: Handled missing values (e.g., missing directors), extracted numeric values from text fields (e.g., duration), and converted data types for accurate analysis.
 
-✅ **Filtering & Aggregation Techniques**: Used WHERE CLAUSE, LIKE, ILIKE, and STRING_TO_ARRAY() to filter content by keywords, genres, and actors while ensuring accurate counts, average.
+✅ **Filtering & Aggregation Techniques**: Used WHERE CLAUSE, LIKE, ILIKE, and STRING_TO_ARRAY() to filter content by keywords, genres, and actors while ensuring accurate counts, averages.
 
 ✅ **Business-Oriented Insights**: Extracted meaningful insights such as top countries producing content, actor appearances, and genre distribution to understand Netflix’s content trends.
 
