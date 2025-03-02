@@ -40,10 +40,10 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## How to Use This Repository
 
-* Download the dataset and SQL file.
-* Import the dataset into SQL environment.
-* Run the queries to explore Netflix content trends.
-* Modify the queries to gain deeper insights.
+* **Step 1**: Download the dataset and SQL file.
+* **Step 2**: Import the dataset into SQL environment.
+* **Step 3**: Run the queries to explore Netflix content trends.
+* **Step 4**: Modify the queries to gain deeper insights.
 
 ## Conclusion
 
